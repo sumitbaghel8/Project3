@@ -1,3 +1,3 @@
 # Project3
-This is third project .
-This is for learning .
+This is third project 
+This is for learning
